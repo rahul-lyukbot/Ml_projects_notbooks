@@ -10,4 +10,4 @@ Building A **House_sale_price** prediction project from scratch. by using **Ames
 for this project i am using regression and gridsearch method for building
 
 
-**There is csv file for without any missing value**
+**There is the csv file https://github.com/rahul-lyukbot/ML_Algorithms_practice/blob/main/NO_missing_values.csv/ for without any missing value**
