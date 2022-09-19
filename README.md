@@ -18,5 +18,5 @@ Using Logistic Regression predict whether a patient have **Heart_disease** or no
 
 Data - heart.csv  https://github.com/rahul-lyukbot/Ml_projects_notbooks/blob/main/heart.csv
 
-##Data
+**Data**
 The Database contain 14 physical attributes based on physical testing of a patient. Blood sample are taken and the patint also conduct a brief Excercise test. The "goal" fiels represent whether a person have heart disease or not it is in integer(0 and 1)
